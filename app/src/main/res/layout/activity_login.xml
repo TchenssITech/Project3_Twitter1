@@ -56,6 +56,6 @@
         android:text="Welcom to TchenssiTweet!"
         android:textAlignment="center"
         android:textSize="20sp"
-        tools:text="Welcom to TchenssiTweet!" />
+        tools:text="Welcome to TchenssiTweet!" />
 
 </RelativeLayout>
